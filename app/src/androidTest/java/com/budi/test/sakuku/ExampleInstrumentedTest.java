@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.budi.test.usingfirebase", appContext.getPackageName());
+        assertEquals("com.budi.test.sakuku", appContext.getPackageName());
     }
 }
