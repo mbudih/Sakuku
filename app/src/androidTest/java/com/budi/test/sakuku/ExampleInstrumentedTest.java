@@ -1,4 +1,4 @@
-package com.budi.test.usingfirebase;
+package com.budi.test.sakuku;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

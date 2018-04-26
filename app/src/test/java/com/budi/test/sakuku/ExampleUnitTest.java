@@ -1,4 +1,4 @@
-package com.budi.test.usingfirebase;
+package com.budi.test.sakuku;
 
 import org.junit.Test;
 
