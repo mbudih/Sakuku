@@ -1,13 +1,15 @@
-package com.budi.test.usingfirebase;
+package com.budi.test.sakuku.module;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.budi.test.usingfirebase.R;
+
+public class FirebaseActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_firebase);
     }
 }

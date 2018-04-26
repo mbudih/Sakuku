@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">UsingFirebase</string>
+    <string name="app_name">Saku</string>
+    <string name="button_firebase">firebase</string>
 </resources>
